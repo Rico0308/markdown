@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Keania+One&display=swap');
+
+body {
+    font-family: 'Keania One', cursive;
+    background-color: #dfeeea;
+}
+
+.preview {
+    background-color: white;
+}
+
+#editor, .preview {
+    min-height: 450px;
+}
+
+.previe img {
+    max-width: 100%;
+}
